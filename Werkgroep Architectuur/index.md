@@ -18,6 +18,7 @@ Zie ook de presentatie van de Api Architectuur sessie op de bijeenkomst 4 maart 
 ## Typologie van API's
 {% include_relative uitwerkingen/apitypes.md %} 
 ## Informatiearchitectuur (relatie/koppeling informatiemodel & API)
+{% include_relative uitwerkingen/apiia.md %}
 ## Event Driven processen & Notificaties
 ## Beveiligingsarchitectuur
 ## API Management
